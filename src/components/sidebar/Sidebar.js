@@ -64,30 +64,12 @@ class Sidebar extends Component {
                             > </a>
                         </li>
                         <li className="sidebar-nav-icons">
-                       
-                            <a
-                                href="https://www.instagram.com/vinaydahiya/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                class="fa fas fa-instagram fa-lg"
-                            > </a>
-                        </li>
-                        <li className="sidebar-nav-icons">
                  
                             <a
                                 href="mailto:vindahiya@gmail.com"
                                 rel="noopener noreferrer"
                                 target="_blank"
                                 class="fa fas fa-envelope fa-lg"
-                            > </a>
-                        </li>
-                        <li className="sidebar-nav-icons">
-                   
-                            <a
-                                href="https://www.facebook.com/vinay.dahiya/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                class="fa fas fa-facebook fa-lg"
                             > </a>
                         </li>
                     </ul>
