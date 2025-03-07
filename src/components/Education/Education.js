@@ -45,7 +45,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                 <h2 >Bachelor of Information Technology <span>2017</span></h2>
-                                                <p>Completed my Degree from <a href='https://www.ait.edu.au/'>AIT, Sydney</a>. </p>
+                                                <p>Completed my Degree from <a href='https://www.ait.edu.au/'>AIT, Sydney, Australia</a>. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
